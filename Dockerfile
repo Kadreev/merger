@@ -1,7 +1,7 @@
 FROM alpine:latest
 
-LABEL repository="https://github.com/jamiemccleave/merge"
-LABEL homepage="https://github.com/jamiemccleave/merge"
+LABEL repository="https://github.com/Kadreev/merger"
+LABEL homepage="https://github.com/Kadreev/merger"
 LABEL "com.github.actions.name"="Upmerge"
 LABEL "com.github.actions.description"="Automatically merge one branch into another"
 LABEL "com.github.actions.icon"="git-merge"
